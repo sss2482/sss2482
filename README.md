@@ -8,6 +8,7 @@ I'm a **Backend Developer** with a passion for **developing and leading projects
 - **Databases:** PostgreSQL, MongoDB
 - **DevOps:** Git
 - **Deep Learning:** TensorFlow, Keras, PyTorch
+- **Designing:** Figma
 
 ### 💡 What I’m Currently Working On
 - Developing a website for a startup focused on Medical employment.
