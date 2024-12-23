@@ -14,7 +14,7 @@ I'm a **Backend Developer** with a passion for **developing and leading projects
 - Developing a website for a startup focused on Medical employment.
 
 ### 🌱 Always Learning
-- Deepening my understanding of reinforcement learning.
+- Experimenting with integration of ML with websites
 - Experimenting with scalable microservices architecture.
 
 ### 🤝 Let’s Connect
